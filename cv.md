@@ -1,22 +1,22 @@
 ## [rsschool-cv](https://technot1k.github.io/rsschool-cv/cv)
 ---
-## Dmitry H
+# Dmitry H
 ---
-### Contacts
+## Contacts
 ---
-* __Location__: Russia
+* __Location__: Russia, Krasnodar
 * __Email__: khakhalev87@gmail.com
 * __Discord__: technot1k
 
-### About Me
+## About Me
 ---
 I used to layout one-pages, but now I want to become a cool developer and develop in this profession. 
 I want to learn.
-### Skills
+## Skills
 ---
 * HTML
 * CSS
 * Git & Github
-### English
+## English
 ---
 __A3__
